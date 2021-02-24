@@ -9,7 +9,7 @@
 # Display two Image Views(Pounds, Ounces).
 # Labels to describe each Image View.  
 # A PickerView to allow user to select pounds.
-# A PickerView to allow user to select onces.
+# A PickerView to allow user to select ounces.
 # Before moving into another ViewController, pounds must be converted to ounces.
 # Update a label with the total ounces the user selected. 
 
